@@ -6,7 +6,6 @@ import com.badlogic.gdx.graphics.glutils.ShapeRenderer;
 import com.badlogic.gdx.graphics.glutils.ShapeRenderer.ShapeType;
 
 import cz.pohy.pong.Pong;
-import cz.pohy.pong.screens.Ball;
 
 public class Bouncer {
 	private float x, y;

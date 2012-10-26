@@ -8,6 +8,7 @@ import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.badlogic.gdx.graphics.glutils.ShapeRenderer;
 
 import cz.pohy.pong.Pong;
+import cz.pohy.pong.objects.Ball;
 import cz.pohy.pong.objects.Bouncer;
 import cz.pohy.pong.other.Point;
 
